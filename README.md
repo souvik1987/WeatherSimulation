@@ -3,7 +3,7 @@ Weather Simulation program in java
 
 STEPS to Build and Run the code :- 
 
-1) You need have JDK 1.7 +
+1) You need to have JDK 1.7 +
 
 2) Compile the java code by typing "javac Weather.java". This will generate a single class file called "Weather.class".
 
